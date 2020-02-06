@@ -20,9 +20,8 @@ using System.Linq;
 using ExcelDataReader;
 using UnityEngine;
 
-namespace UnityMasterData.Libs
+namespace UnityExcel
 {
-
     /// <summary>
     /// Provides to read and access a specified excel data file by the path.
     /// 
