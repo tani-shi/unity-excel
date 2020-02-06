@@ -1,0 +1,17 @@
+{
+  "name": "com.tani-shi.unity-excel",
+  "displayName": "UnityExcel",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tani-shi/unity-excel.git"
+  },
+  "keywords": [],
+  "author": "Shintaro Tanikawa <shintaro.tanikawa@gmail.com> (https://github.com/tani-shi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tani-shi/unity-excel/issues"
+  },
+  "homepage": "https://github.com/tani-shi/unity-excel#readme",
+  "description": "Provides a method to parse excel files in Unity."
+}
